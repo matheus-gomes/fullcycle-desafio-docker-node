@@ -9,8 +9,6 @@ Ao acessar o endereço http://localhost, o usuário será direcionado para a apl
 
 ## Execução do projeto
 
-Primeiramente, na pasta `node`, execute `npm install` para instalar as dependências da aplicação.
-
 Para executar o projeto basta rodar o comando:
 ```
 docker-compose up -d
